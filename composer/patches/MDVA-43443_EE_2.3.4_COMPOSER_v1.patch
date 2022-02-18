@@ -3,7 +3,7 @@ Patch for CVE-2022-24087 (Magento 2.3.3-p1 to 2.3.4)
 @type bundle
 @cwd project
 @level 1
-@depends magento/magento2-base:>=2.3.3-p1 <=2.4.3
+@depends magento/magento2-base:>=2.3.3-p1 <=2.3.4
 @after MDVA-43395_EE_2.4.3-p1_COMPOSER_v1
 @link https://support.magento.com/hc/en-us/articles/4426353041293-Security-updates-available-for-Adobe-Commerce-APSB22-12-
 
