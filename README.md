@@ -9,7 +9,7 @@ Magento2 Technical Tips and Tools
 
 ### **Composer**
 
-* **[Automated Patch Application](#automated-patch-application)
+* **[Automated Patch Application](#automated-patch-application)**
 
 
 
