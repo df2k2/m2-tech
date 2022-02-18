@@ -34,7 +34,7 @@ To use the automated patch system, update your magento root project's `composer.
     }
 ```
 
-**Step 3.** Obtain patch, apply the proper meta, place file within the directory specified - our example is `./patches`:
+**Step 3.** Obtain patch, [apply the proper meta](https://github.com/vaimo/composer-patches/blob/master/docs/USAGE_BASIC.md#embedded-metadata), place file within the directory specified - our example is `./patches`:
 
 See working patch example: [patches/MDVA-43395_EE_2.4.3-p1_COMPOSER_v1.patch](./patches/MDVA-43395_EE_2.4.3-p1_COMPOSER_v1.patch)
 
