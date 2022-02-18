@@ -50,6 +50,11 @@ Writing patch info to install file
 
 ```
 
+**Done!**
+
+
+-----
+
 **Additional commands:**
 
 * **composer patch:list**
