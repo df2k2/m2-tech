@@ -5,7 +5,7 @@ Magento2 Technical Tips and Tools
 
 ## **[Automated Patch Application](./composer)**
 
-Follow instructions found in link above.
+Follow [these instructions](./composer)
 
 **Note:** 
 
