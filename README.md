@@ -3,6 +3,21 @@ Magento2 Technical Tips and Tools
 
 -----
 
+
+## Topics and Contents
+
+
+### **Composer**
+
+* **[Automated Patch Application](#automated-patch-application)
+
+
+
+
+------
+
+# Composer
+
 ## **[Automated Patch Application](./composer)**
 
 Follow [these instructions](./composer)
